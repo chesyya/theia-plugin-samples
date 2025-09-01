@@ -69,6 +69,7 @@ You need to have [node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/
 | [Chat Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/chat-sample) | N/A |  |
 | [Chat Tutorial](https://github.com/Microsoft/vscode-extension-samples/tree/main/chat-tutorial) | N/A |  |
 | [Notifications Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/notifications-sample) | N/A |  |
+| [Theia Plugin Sample](https://github.com/Microsoft/vscode-extension-samples/tree/main/theia-plugin-sample) | N/A | [commands.registerCommand](https://code.visualstudio.com/api/references/vscode-api#commands.registerCommand)<br>[window.showInformationMessage](https://code.visualstudio.com/api/references/vscode-api#window.showInformationMessage)<br>[window.createOutputChannel](https://code.visualstudio.com/api/references/vscode-api#window.createOutputChannel)<br>[contributes.commands](https://code.visualstudio.com/api/references/contribution-points#contributes.commands)<br>[contributes.menus](https://code.visualstudio.com/api/references/contribution-points#contributes.menus) |
 <!-- SAMPLES_END -->
 
 ### Language Server Protocol Samples

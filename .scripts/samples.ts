@@ -291,6 +291,13 @@ export const samples: Sample[] = [
 		apis: [],
 		contributions: []
 	},
+	{
+		description: 'Theia Plugin Sample',
+		path: 'theia-plugin-sample',
+		guide: null,
+		apis: ['commands.registerCommand', 'window.showInformationMessage', 'window.createOutputChannel'],
+		contributions: ['commands', 'menus']
+	},
 	{ description: 'authenticationprovider-sample', excludeFromReadme: true, path: 'authenticationprovider-sample', guide: null, apis: [], contributions: [] },
 	{ description: 'configuration-sample', excludeFromReadme: true, path: 'configuration-sample', guide: null, apis: [], contributions: [] },
 	{ description: 'chat-model-provider-sample', excludeFromReadme: true, path: 'chat-model-provider-sample', guide: null, apis: [], contributions: [] },
